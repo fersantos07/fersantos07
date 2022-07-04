@@ -1,12 +1,10 @@
-### Hi there 👋
+### ola tudo bem  :wave: 👋
 
-<!--
-**fersantos07/fersantos07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ... estou trabalhando na disciplina pensamento computacional :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... estou estudando github :student:
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
